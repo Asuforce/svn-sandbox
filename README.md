@@ -1,3 +1,9 @@
 # svn-sandbox
 
-Hello, svn !
+## Usage
+
+```sh
+# Checkout
+svn co https://github.com/Asuforce/svn-sandbox
+```
+
